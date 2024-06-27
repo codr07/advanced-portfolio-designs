@@ -14,7 +14,7 @@
   <tr>
     <td><strong>Version :</strong></td>
     <td><p align="center">
- <a href="https://github.com/codr07/my-portfolio/releases/tag/html"><img src="https://img.shields.io/badge/1.0-white?logo=github&label=Version&labelColor=red"/></a>
+ <a href="https://github.com/codr07/advanced-portfolio-designs/releases/tag/html"><img src="https://img.shields.io/badge/2.0-white?logo=github&label=Version&labelColor=red"/></a>
 </p></td>
   <td> <strong>Deplying Site :</strong> </td>
 <td><p align="center">
