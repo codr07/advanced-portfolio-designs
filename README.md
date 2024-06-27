@@ -35,10 +35,19 @@
 
 <hr  />
 
-<p align="center">  
-  🔗 <strong>Visit my Website :</strong>
-<a href="https://codr.netlify.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodr.netlify.app&up_message=Website--here&style=for-the-badge&logo=Netlify&label=Visit"/></a>
-</p>
+<table align="center">
+<tr>
+<th> 🔗 <strong>Deplyed Websites :</strong> </th>
+</tr>
+<tr>
+
+<td>
+
+| Magnet Pull | Apple UI |
+|--|--|
+|<a href="https://codr.netlify.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodr.netlify.app&up_message=Website--here&style=for-the-badge&logo=Netlify&label=Visit"/></a>|<a href="https://codrss.netlify.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodr.netlify.app&up_message=Website--here&style=for-the-badge&logo=Netlify&label=Visit"/></a>|
+</td></tr> </table>
+
 <br/>
 <hr/>
 
