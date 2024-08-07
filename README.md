@@ -1,7 +1,7 @@
 <table align="center"><tr>
   <td>
 <p align="center">
-<img src="https://github.com/codr07/my-portfolio/Apple UI/assets/img/mylogo.png" width="100px"><br>
+<img src="https://github.com/codr07/advanced-portfolio-designs/blob/main/Apple%20UI/assets/img/mylogo.png" width="100px"><br>
   CODR
 <p>
  </td>
